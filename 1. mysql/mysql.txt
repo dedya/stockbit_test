@@ -1,0 +1,2 @@
+1. select a.ID, a.UserName, b.UserName from User a left outer join User b on b.ID = a.Parent
+2. 
